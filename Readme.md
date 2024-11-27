@@ -54,11 +54,6 @@ O projeto é uma página web para uma cafeteria chamada “Coffee Shop”. A pá
 
 <br>
 
-## 💻 Demonstração
-Para visualizar uma prévia do projeto <a href="https://coffee-shop-one-liard.vercel.app/" target="_blank"><b>clique aqui</b></a>
+
 
 <br>
-
-## 🙋🏻‍♂️ Autor
-| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
-| :---: |
